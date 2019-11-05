@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong_2", "Pong_2\Pong_2\Pong_2.csproj", "{E8DF25B3-C30F-44B5-8769-794A8C0436BE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Pong_2Content", "Pong_2\Pong_2Content\Pong_2Content.contentproj", "{3168892A-BA36-489A-A6A9-C9D419E8E3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DF25B3-C30F-44B5-8769-794A8C0436BE}.Debug|x86.ActiveCfg = Debug|x86
+		{E8DF25B3-C30F-44B5-8769-794A8C0436BE}.Debug|x86.Build.0 = Debug|x86
+		{E8DF25B3-C30F-44B5-8769-794A8C0436BE}.Release|x86.ActiveCfg = Release|x86
+		{E8DF25B3-C30F-44B5-8769-794A8C0436BE}.Release|x86.Build.0 = Release|x86
+		{3168892A-BA36-489A-A6A9-C9D419E8E3BC}.Debug|x86.ActiveCfg = Debug|x86
+		{3168892A-BA36-489A-A6A9-C9D419E8E3BC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81BC2A6-12DA-45F8-B505-BF3F81CAD7FA}
+	EndGlobalSection
+EndGlobal
